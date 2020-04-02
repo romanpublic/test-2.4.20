@@ -1,1 +1,1 @@
-FROM ubuntu:18
+FROM ubuntu:latest
